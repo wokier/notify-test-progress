@@ -22,5 +22,7 @@ Usage
 
 For maven, Surefire must be configured in useSystemClassLoader = false mode to scan correctly the test methods
 
+---
+
 Release Notes
  - 30/10/2014 v0.1 Rule
